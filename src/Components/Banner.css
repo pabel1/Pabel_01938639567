@@ -1,0 +1,7 @@
+.banner__bg{
+    background-image:url("../Assests/image/bannerimg.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:100vh;
+    
+}
