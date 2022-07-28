@@ -7,7 +7,7 @@ const Banner = () => {
     <div className="banner__bg container mx-auto  mb-14 pt-32 ">
       <div className="  ">
         <div className="nav__baner text-center grid grid-cols-2  lg:gap-24">
-          <div className="relative  sm:mx-[3%] md:text-left lg:ml-[100px]">
+          <div className="relative  sm:mx-[3%] md:text-left lg:ml-[200px]">
             <h1 className=" text-[100px]  mt-12 font-bold opacity-[.05]">
               Product <br /> Designer
             </h1>
