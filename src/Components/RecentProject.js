@@ -4,7 +4,7 @@ import projectImg_2 from "../Assests/image/project__2.png";
 import projectImg_3 from "../Assests/image/project__3.png";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import Slider from "react-slick";
+// import Slider from "react-slick";
 
 const RecentProject = () => {
   // const settings = {
